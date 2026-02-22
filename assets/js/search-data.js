@@ -479,11 +479,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/my-cv/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%65%6E.%6D%69%61%6F@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
+          window.open("https://www.researchgate.net/profile/Sen-Miao", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -512,13 +512,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/sen-miao", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Sen-Miao", "_blank");
         },
       },{
       id: 'light-theme',
