@@ -81,22 +81,42 @@ layout: default
 </div>
 
 <style>
-/* ⭐ Correct element — remove big gap under photo */
+/* ============================= */
+/* Fix visual gap under profile photo */
+/* ============================= */
+
+/* Remove default figure spacing */
 .profile figure {
-  margin-bottom: 0px !important;
+  margin-bottom: 0 !important;
+  line-height: 0;   /* ⭐ removes invisible inline-image gap */
 }
 
-/* Bring icons closer to photo */
+/* Make image behave like a block element */
+.profile img {
+  display: block;
+}
+
+/* Pull social icons visually closer to the image */
 .profile .social {
   margin-top: -6px !important;
 }
 
-/* Better icon size (not too small) */
+/* ============================= */
+/* Social icon appearance */
+/* ============================= */
+
 .contact-icons i {
-  font-size: 1.55rem !important;
+  font-size: 1.55rem !important;   /* balanced size */
   opacity: 0.9;
 }
+
 .contact-icons a:hover i {
   opacity: 1;
+}
+
+/* Optional: cleaner spacing between icons */
+.contact-icons {
+  display: flex;
+  gap: 10px;
 }
 </style>
