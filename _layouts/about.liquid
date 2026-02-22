@@ -81,33 +81,22 @@ layout: default
 </div>
 
 <style>
-.contact-icons i {
-  font-size: 1.45rem !important;
+/* ⭐ Correct element — remove big gap under photo */
+.profile figure {
+  margin-bottom: 0px !important;
 }
 
+/* Bring icons closer to photo */
 .profile .social {
-  margin-top: 6px !important;
+  margin-top: -6px !important;
 }
 
-.contact-icons {
-  display: flex;
-  gap: 10px;
-}
-</style>
-
-<style>
-/* Reduce space under profile image */
-.profile img {
-  margin-bottom: 4px !important;
-}
-
-/* Pull social icons upward */
-.profile .social {
-  margin-top: -8px !important;
-}
-
-/* Good icon size */
+/* Better icon size (not too small) */
 .contact-icons i {
-  font-size: 1.45rem !important;
+  font-size: 1.55rem !important;
+  opacity: 0.9;
+}
+.contact-icons a:hover i {
+  opacity: 1;
 }
 </style>
