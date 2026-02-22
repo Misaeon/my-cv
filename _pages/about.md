@@ -33,3 +33,13 @@ i) Analyzing key factors influencing indoor environmental quality and occupantsâ
 ii) Modeling humanâ€“building interactions under system uncertainties; 
 
 iii) Developing advanced predictive models and control algorithms for intelligent building management.
+
+# social button size
+<style>
+.social .contact-icons i {
+  font-size: 1.2rem !important;
+}
+.social .contact-icons a {
+  padding: 6px !important;
+}
+</style>
