@@ -490,11 +490,18 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=e8t-l6YAAAAJ&hl", "_blank");
+          window.open("https://scholar.google.com/citations?user=e8t-l6YAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-0266-9405", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Misaeon", "_blank");
