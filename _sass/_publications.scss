@@ -122,7 +122,7 @@
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
-          color: v.$black-color;
+          color: var(--global-card-bg-color);
           height: 100%;
           padding-right: 0.5rem;
           vertical-align: middle;
