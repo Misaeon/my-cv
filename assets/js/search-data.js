@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-tools",
           title: "Tools",
-          description: "I have developed several research tools that are freely available for public use.You can explore and access them here from my Github repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/my-cv/repositories/";
