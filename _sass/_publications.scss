@@ -187,7 +187,7 @@
   color: var(--global-theme-color);
 }
 
-/* --- Fix badge text color overridden by typography.scss --- */
-.publications .badge {
+/* Fix abbreviation badge text color in LIGHT mode */
+html[data-theme="light"] abbr.badge {
   color: #ffffff;
 }
