@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: Full publication list on [Google Scholar](https://scholar.google.com/citations?user=e8t-l6YAAAAJ)
 nav: true
 nav_order: 4
 ---
