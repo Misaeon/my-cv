@@ -186,3 +186,9 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+/* Force white venue text even if venue is rendered as a <div> */
+.publications .abbr div,
+.publications .badges div {
+  color: var(--global-card-bg-color) !important;
+}
