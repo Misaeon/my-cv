@@ -192,3 +192,19 @@
 .publications .badges div {
   color: var(--global-card-bg-color) !important;
 }
+
+/* ================================
+   Keywords badges styling
+================================ */
+
+.publications .keywords {
+  margin-top: 4px;
+}
+
+.publications .keywords .badge {
+  color: var(--global-text-color) !important;   // black text
+  background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  font-weight: 500;
+}
+
