@@ -187,10 +187,3 @@
   color: var(--global-theme-color);
 }
 
-/* ===== FORCE abbreviation badge text to white ===== */
-.publications .abbr abbr.badge,
-.publications .abbr abbr.badge a,
-.publications .abbr abbr.badge a:visited,
-.publications .abbr abbr.badge a:hover {
-  color: #fff !important;
-}
