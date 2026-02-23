@@ -122,11 +122,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-indoor-climate-amp-hvac-technology",
+          title: 'Indoor Climate &amp;amp; HVAC Technology',
+          description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and thermal comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational and commercial buildings.",
           section: "Teachings",handler: () => {
-              window.location.href = "/my-cv/teachings/data-science-fundamentals/";
+              window.location.href = "/my-cv/teachings/indoor-climate-hvac-technology/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
