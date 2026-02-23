@@ -124,7 +124,7 @@ ninja.data = [{
               window.location.href = "/my-cv/projects/9_project/";
             },},{id: "teachings-indoor-climate-amp-hvac-technology",
           title: 'Indoor Climate &amp;amp; HVAC Technology',
-          description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and thermal comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational and commercial buildings.",
+          description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and occupant comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational, commercial and residential buildings.",
           section: "Teachings",handler: () => {
               window.location.href = "/my-cv/teachings/indoor-climate-hvac-technology/";
             },},{
