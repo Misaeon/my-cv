@@ -4,6 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - misaeon/Bayesian-Mean-Thermal-Sensation-Vote-Calculator
-  - misaeon/CO2-Based-Natural-Ventilation-Rate-Estimation-Tool
-  - misaeon/Natural-Ventilation-Operation-Guide-Tool
+  - name: misaeon/Bayesian-Mean-Thermal-Sensation-Vote-Calculator
+    image: /assets/images/repo_bmtsv.png
+
+  - name: misaeon/CO2-Based-Natural-Ventilation-Rate-Estimation-Tool
+    image: /assets/images/repo_nvapf.png
+
+  - name: misaeon/Natural-Ventilation-Operation-Guide-Tool
+    image: /assets/images/repo_ventguide.png
