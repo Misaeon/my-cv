@@ -186,6 +186,16 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.keywords %}
+      <div class="keywords" style="margin-top:4px;">
+        {% assign keyword_list = entry.keywords | split: ',' %}
+        {% for keyword in keyword_list %}
+          <span class="badge rounded-pill" style="margin-right:4px;">
+            {{ keyword | strip }}
+          </span>
+        {% endfor %}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
