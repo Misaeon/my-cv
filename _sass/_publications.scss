@@ -186,8 +186,3 @@
 .citation-number {
   color: var(--global-theme-color);
 }
-
-/* Fix abbreviation badge text color in LIGHT mode */
-html[data-theme="light"] abbr.badge {
-  color: #ffffff;
-}
