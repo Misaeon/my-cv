@@ -11,9 +11,11 @@
       <strong>{{ entry.name }}</strong>
 
       {% assign ref = entry.reference %}
-      {% assign ref = ref | replace: "Miao, Sen*", "<strong>Miao, Sen*</strong>" %}
+      {% assign ref = ref | replace: "Sen* Miao", "<strong>Sen Miao*</strong>" %}
       {% assign ref = ref | replace: "Sen Miao*", "<strong>Sen Miao*</strong>" %}
-      <p>{{ ref | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      {% assign ref = ref | replace: "Sen Miao", "<strong>Sen Miao*</strong>" %}
+
+      <p>{{ ref }}</p>
 
     </li>
   {% endfor %}
