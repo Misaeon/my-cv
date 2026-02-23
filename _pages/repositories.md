@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-I have developed some useful tools that are freely available for public use. You can explore and access them here from my Github repositories.
+I have developed some useful tools that are freely available for public use. You can access them here from my Github repositories.
   
 {% if site.data.repositories.github_users %}
 
