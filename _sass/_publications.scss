@@ -187,3 +187,7 @@
   color: var(--global-theme-color);
 }
 
+/* --- Fix badge text color overridden by typography.scss --- */
+.publications .badge {
+  color: #ffffff;
+}
