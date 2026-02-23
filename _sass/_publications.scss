@@ -187,12 +187,10 @@
   color: var(--global-theme-color);
 }
 
-/* ===== Fix abbreviation badge text color ===== */
-.publications ol.bibliography li .abbr abbr.badge a {
-  color: #ffffff !important;
-}
-
-.publications ol.bibliography li .abbr abbr.badge a:hover {
-  color: #ffffff !important;
-  text-decoration: none;
+/* ===== FORCE abbreviation badge text to white ===== */
+.publications .abbr abbr.badge,
+.publications .abbr abbr.badge a,
+.publications .abbr abbr.badge a:visited,
+.publications .abbr abbr.badge a:hover {
+  color: #fff !important;
 }
