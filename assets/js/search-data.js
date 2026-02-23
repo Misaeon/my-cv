@@ -127,11 +127,6 @@ ninja.data = [{
           description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and thermal comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational and commercial buildings.",
           section: "Teachings",handler: () => {
               window.location.href = "/my-cv/teachings/indoor-climate-hvac-technology/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/my-cv/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-custom_social',
         title: 'Custom_social',
