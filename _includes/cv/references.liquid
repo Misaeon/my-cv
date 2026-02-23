@@ -9,14 +9,7 @@
         <i class="{{ entry.icon }}"></i>
       {% endif %}
       <strong>{{ entry.name }}</strong>
-
-      {% assign ref = entry.reference %}
-      {% assign ref = ref | replace: "Sen* Miao", "<strong>Sen Miao*</strong>" %}
-      {% assign ref = ref | replace: "Sen Miao*", "<strong>Sen Miao*</strong>" %}
-      {% assign ref = ref | replace: "Sen Miao", "<strong>Sen Miao*</strong>" %}
-
-      <p>{{ ref }}</p>
-
+      <p>{{ entry.reference | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     </li>
   {% endfor %}
 </ul>
