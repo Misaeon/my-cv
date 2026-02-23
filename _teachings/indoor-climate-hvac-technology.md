@@ -1,11 +1,11 @@
 ---
 layout: course
 title: Indoor Climate & HVAC Technology
-description: This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and thermal comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational and commercial buildings.
+description: This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and occupant comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational, commercial and residential buildings.
 instructor: Prof. Lars Ekberg & Dr. Sen Miao
-year: 2026
+year: 2027
 term: Spring
-location: Science Building, Room 202
+location: Johanneberg Campus, Sven Hultins Gata 6, Room 303
 time: Mondays and Wednesdays, 2:00-3:30 PM
 course_id: indoor-climate-hvac-technology
 schedule:
@@ -74,11 +74,10 @@ schedule:
 
 This course provides a comprehensive introduction to indoor climate and HVAC technologies used in modern buildings. Students will:
 
-- Understand the fundamentals of thermal comfort and indoor air quality
-- Learn how HVAC systems operate and influence building performance
-- Explore ventilation strategies and monitoring techniques
-- Analyze building energy performance and climate resilience
-- Gain exposure to smart building technologies and AI-driven control
+- Understand the fundamentals of indoor environmental quality and occupant comfort
+- Learn HVAC system operation and its impact on building performance
+- Explore ventilation strategies and indoor climate monitoring techniques
+- Develop knowledge of smart building technologies and AI-driven control strategies
 
 ## Prerequisites
 
