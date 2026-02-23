@@ -2,7 +2,9 @@
 layout: page
 permalink: /repositories/
 title: Tools
-description: I have developed several research tools that are freely available for public use. You can explore and access them here from my Github repositories.
+description: |
+  I have developed several research tools that are freely available for public use.
+  You can explore and access them here from my Github repositories.
 nav: true
 nav_order: 5
 ---
