@@ -1,0 +1,44 @@
+/* ===== Modern Repo Cards (al-folio upgrade) ===== */
+
+.modern-repo-card {
+  padding: 10px;
+}
+
+.repo-image-wrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.repo-image-wrapper:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+}
+
+.repo-image {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.repo-image-wrapper:hover .repo-image {
+  transform: scale(1.06);
+}
+
+.repo-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(to top, rgba(0,0,0,0.65), rgba(0,0,0,0));
+}
+
+.repo-title {
+  color: white;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-align: left;
+}
