@@ -20,15 +20,16 @@
 
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.username }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.username }}"
-      src="{{ site.external_services.github_readme_stats_url }}/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.username }}"
-      src="{{ site.external_services.github_readme_stats_url }}/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
-    >
+    <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+      <img
+        src="https://github.com/{{ include.username }}.png"
+        alt="{{ include.username }}"
+        style="width:100%; height:100%; object-fit:cover;"
+      >
+    </div>
+
+    <div class="mt-2">
+      <strong>{{ include.username }}</strong>
+    </div>
   </a>
 </div>
