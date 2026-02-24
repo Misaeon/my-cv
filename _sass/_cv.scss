@@ -44,7 +44,8 @@ a.btncv:hover {
 
 p.location {
   font-size: 0.7rem;
-  white-space: nowrap;
+  white-space: normal;
+  line-height: 1.1;
 }
 
 i.iconlocation {
@@ -224,15 +225,15 @@ ul.timeline li::before {
  *****************************/
 
 .logo-box {
-  width:48px;
-  height:48px;
+  width:80px;
+  height:80px;
   display:flex;
   align-items:center;
   justify-content:center;
   margin:6px auto;
   background:white;
   border-radius:6px;
-  padding:3px;
+  padding:4px;
 }
 
 .logo-box img {
@@ -242,40 +243,46 @@ ul.timeline li::before {
 }
 
 /*****************************
- * CV LANGUAGES MODERN STYLE
+ * MODERN LANGUAGE PILLS
  *****************************/
 
-.language-list {
-  margin-top: 0.5rem;
-}
-
-.language-row {
+.language-pills {
   display:flex;
-  justify-content:space-between;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:0.5rem;
+}
+
+.language-pill {
+  display:inline-flex;
   align-items:center;
-  padding:0.6rem 0.5rem;
+  gap:6px;
+  background:var(--global-theme-color);
+  color:white;
+  padding:6px 12px;
+  border-radius:20px;
+  font-size:0.85rem;
+  font-weight:500;
+  transition:all 0.2s ease;
 }
 
-.language-left {
-  display:flex;
-  align-items:center;
-  gap:0.5rem;
+.language-pill:hover {
+  transform:translateY(-1px);
+  box-shadow:0 2px 6px rgba(0,0,0,0.15);
 }
 
-.language-icon {
-  color:var(--global-theme-color);
-  font-size:0.95rem;
+.lang-icon {
+  font-size:0.9rem;
 }
 
-.language-name {
+.lang-text {
   font-weight:600;
 }
 
-.language-level {
-  font-size:0.8rem;
-  background:var(--global-theme-color);
-  color:white;
-  padding:2px 8px;
-  border-radius:6px;
-  white-space:nowrap;
+.lang-level {
+  background:white;
+  color:var(--global-theme-color);
+  padding:1px 6px;
+  border-radius:10px;
+  font-size:0.75rem;
 }
