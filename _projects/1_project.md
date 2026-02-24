@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: IAQ4EDU
+description: Participant - Doctoral researcher
+img: assets/img/iaq4edu.png
 importance: 1
 category: Past
 related_publications:
@@ -31,7 +31,7 @@ Below is a live project preview.
 </p>
 
 <!-- ========================= -->
-<!-- Fake Browser Preview -->
+<!-- Browser Preview -->
 <!-- ========================= -->
 
 <a href="https://iaq4edu.upc.edu/en" target="_blank" style="text-decoration:none;">
