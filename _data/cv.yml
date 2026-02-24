@@ -60,8 +60,8 @@ cv:
         start_date: "2025.10"
         end_date: "2026.07"
         summary: |
-          WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
-          RESILIENT- Towards a climate-resilient future: Modeling strategies for the Spanish building stock
+          WEF4Build - Boosting climate resilience through Water-Energy-Food nexus-based solutions
+          RESILIENT- Towards a climate-RESILIENT future: Modeling strategies for the Spanish building stock
 
       - company: Universitat Politècnica de Catalunya, Group of Construction Research and Innovation
         position: Doctoral Researcher
@@ -70,7 +70,7 @@ cv:
         location: Terrassa, Spain
         start_date: "2021.10"
         end_date: "2025.07"
-        summary: IAQ4EDU - Optimal ventilation strategies for balancing indoor air quality, comfort, and energy use in educational buildings
+        summary: IAQ4EDU - Optimal ventilation strategies for balancing Indoor Air Quality, comfort, and energy use in EDUcational buildings
 
       - company:  
         position: Independent Researcher
