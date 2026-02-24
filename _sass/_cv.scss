@@ -308,18 +308,19 @@ ul.timeline li::before {
 /*****************************
  * CV SUMMARY BULLET STYLE
  *****************************/
-.summary-line {
+.summary-line{
   position: relative;
-  padding-left: 1.6rem;   /* text indent */
+  margin-left: 1.5rem;   /* controls global indent */
+  padding-left: 1.2rem;  /* space for bullet */
   line-height: 1.5;
   font-size: 0.95rem;
 }
 
-.summary-line::before {
-  content: "○";
-  position: absolute;
-  left: 0.3rem;   /* ← move bullet inside padding */
-  top: 0.2rem;
-  font-size: 0.75rem;
-  color: var(--global-text-color);
+.summary-line::before{
+  content:"○";
+  position:absolute;
+  left:0;
+  top:0.25rem;
+  font-size:0.75rem;
+  color:var(--global-text-color);
 }
