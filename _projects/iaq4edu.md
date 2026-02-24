@@ -22,8 +22,10 @@ related_publications: true
 <h3>Project Overview</h3>
 
 <p>
-IAQ4EDU platform for indoor air quality education and monitoring.
-Below is a live project preview.
+The project aims to optimize the ventilation strategies in educational centres, taking into account the indoor air quality, thermal comfort, energy consumption, and global costs. My doctoral thesis research was conducted within the framework of this project.
+</p>
+<p style="margin-top:10px; font-size:14px; color:#666;">
+Click the window below for more information about the IAQ4EDU project. 
 </p>
 
 <!-- ========================= -->
@@ -70,9 +72,6 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
 </a>
 
-<p style="margin-top:10px; font-size:14px; color:#666;">
-Click to open the live website in a new tab.
-</p>
 
 </div>
 </div>
