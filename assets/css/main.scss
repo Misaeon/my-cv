@@ -43,6 +43,6 @@
 /* ---- darker header under projects and publications pages ---- */
 h2.category,
 h2.bibliography {
-  color: var(--global-text-color) !important; /* recommended (works in dark mode) */
-  /* or: color: #444 !important; */
+  color: #999 !important; /* recommended (works in dark mode) */
+  /* or: var(--global-text-color) !important; */
 }
