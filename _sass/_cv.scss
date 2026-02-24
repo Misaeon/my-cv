@@ -309,10 +309,10 @@ ul.timeline li::before {
  * CV SUMMARY BULLET STYLE
  *****************************/
 .summary-line {
-  position:relative;
-  margin-left:1.6rem;   /* controls indent */
-  line-height:1.5;
-  font-size:0.95rem;
+  position: relative;
+  padding-left: 1.6rem;   /* indentation */
+  line-height: 1.5;
+  font-size: 0.95rem;
 }
 
 .summary-line::before {
