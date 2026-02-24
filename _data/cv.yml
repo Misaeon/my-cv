@@ -3,11 +3,11 @@ cv:
   location: 307, TR5, C. Colom, 1, 08222 Terrassa, Barcelona
 
   address:
-    street: C. Colom, 1
+    street: 307, TR5, C. Colom, 1
     city: Terrassa
     region: Barcelona
-    postalCode: 08022
-    countryCode: Barcelona
+    postalCode: 08022, Barcelona
+    countryCode: Spain
 
   social_networks:
     - network: 
@@ -20,40 +20,40 @@ cv:
         url: https://deca.upc.edu/en/PhD_studies-research/phd/construction-engineering/construction-engineering
         area: Department of Project and Construction Engineering
         studyType: Ph.D., Cum Laude in Construction Engineering
-        start_date: 2021.10
-        end_date: 2025.07
+        start_date: "2021.10"
+        end_date: "2025.07"
 
       - institution: Universiteit Twente (UT)
         location: Leeuwarden, Netherlands
         url: https://www.utwente.nl/en/education/master/programmes/environmental-energy-management/
         area: Section of Governance and Technology for Sustainability
         studyType: M.Sc in Environmental and Energy Management
-        start_date: 2017.09
-        end_date: 2018.09
+        start_date: "2017.09"
+        end_date: "2018.09"
 
       - institution: Chengdu University of Technology (CDUT)
         location: Chengdu, China
         url: https://www.cdut.edu.cn/en/
         area: Department of Civil and Environmental Engineering
         studyType: B.E in Engineering Mechanics
-        start_date: 2013.09
-        end_date: 2017.07
+        start_date: "2013.09"
+        end_date: "2017.07"
 
     Experience:
       - company: Building Services Engineering, Chalmers University of Technology
         position: Marie Curie Postdoc Fellow
         url: https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/
         location: Gothenburg, Sweden
-        start_date: 2026.09
-        end_date: 2028.09
+        start_date: "2026.09"
+        end_date: "2028.09"
         summary: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system
 
       - company: Group of Construction Research and Innovation，Universitat Politècnica de Catalunya
         position: Research Associate 
         url: https://gric.upc.edu/en?set_language=en
         location: Terrassa, Spain
-        start_date: 2025.10
-        end_date: 2026.07
+        start_date: "2025.10"
+        end_date: "2026.07"
         summary: |
           WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
           "RESILIENT- Towards a climate-resilient future: modeling strategies for the Spanish building stock"
@@ -62,47 +62,50 @@ cv:
         position: Doctoral Researcher
         url: https://gric.upc.edu/en?set_language=en
         location: Terrassa, Spain
-        start_date: 2021.10
-        end_date: 2025.07
+        start_date: "2021.10"
+        end_date: "2025.07"
         summary: IAQ4EDU - Optimal ventilation strategies for balancing indoor air quality, comfort and energy use in educational buildings
 
       - company:  
         position: Independent Researcher
         url: https://misaeon.github.io/my-cv/cv/
         location: Chengdu, China
-        start_date: 2019.04
-        end_date: 2021.05
+        start_date: "2019.04"
+        end_date: "2021.05"
         summary: "Mitigating greenhouse gas emissions of municipal solid waste management system: case study of Chengdu, China"
 
     Awards:
       - title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships
         authors:
           - "European Commission - Horizon Europe"
-        date: 2026.02
+        date: "2026"
         awarder: European Commission - Horizon Europe
         url: https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers
-        summary: "Project: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system"
+        summary: "Awarded to project: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system"
 
       - title: Top Cited Article in 2023
         authors:
           - "Indoor Air, Wiley"
-        date: 2025.03
+        date: "2025"
         awarder: Indoor Air, Wiley
-        summary: "Articile: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate"
+        url: https://onlinelibrary.wiley.com/journal/ina
+        summary: "Awarded to article: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate"
         
       - title: Research Excellence Award
         authors:
           - "City Council of Terrassa, Barcelona"
-        date: 2023.11
+        date: "2023"
         awarder: City Council of Terrassa, Barcelona
-        summary: "Project: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings"
+        url: https://www.terrassa.cat/beques-de-recerca
+        summary: "Awarded to research: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings"
 
       - title: Full-time PhD scholarship
         authors:
-          - "China scholarship council"
-        date: 2022.05
+          - "China Scholarship Council"
+        date: "2022"
         awarder: China scholarship council
-        summary: "Project: Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings"
+        url: https://www.csc.edu.cn/
+        summary: "Awarded to doctoral research: Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings"
 
     Languages:
       - name: Mandarin Chinese
