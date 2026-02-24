@@ -46,14 +46,14 @@ p.location {
   font-size:0.7rem;
   text-align:center;
   position:relative;
-  padding-left:14px;   /* space reserved for icon */
+  padding-left:8px;   /* space reserved for icon */
   line-height:1.2;
   margin:0;
 }
 
 p.location i.iconlocation {
   position:absolute;
-  left:0;
+  left:2px;
   top:50%;
   transform:translateY(-50%);
   color:var(--global-theme-color);
@@ -275,12 +275,11 @@ ul.timeline li::before {
   align-items:center;
   gap:6px;
   background:var(--global-theme-color);
-  color:white;
+  color:white !important;
   padding:6px 12px;
   border-radius:20px;
   font-size:0.85rem;
   font-weight:500;
-  transition:all 0.2s ease;
 }
 
 .language-pill:hover {
@@ -294,6 +293,7 @@ ul.timeline li::before {
 
 .lang-text {
   font-weight:600;
+  color:white !important;
 }
 
 .lang-level {
