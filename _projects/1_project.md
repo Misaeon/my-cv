@@ -5,7 +5,11 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: Past
-related_publications: true
+related_publications:
+  - Miao2025_PINN
+  - Miao2025_NVAPF
+  - Miao2025_NVModels
+  - Miao2023_JOBE
 ---
 
 <ul class="nav nav-tabs" id="projectTabs" role="tablist">
