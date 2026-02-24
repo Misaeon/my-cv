@@ -2,6 +2,13 @@ cv:
   email: sen.miao@outlook.com
   location: 307, TR5, C. Colom, 1, 08222 Terrassa, Barcelona
 
+  address:
+    street: C. Colom, 1
+    city: Terrassa
+    region: Barcelona
+    postalCode: 08022
+    countryCode: Barcelona
+
   social_networks:
     - network: 
       username: 
@@ -61,6 +68,7 @@ cv:
 
       - company:  
         position: Independent Researcher
+        url: https://misaeon.github.io/my-cv/cv/
         location: Chengdu, China
         start_date: 2019.04
         end_date: 2021.05
