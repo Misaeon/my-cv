@@ -5,11 +5,7 @@ description: Participant - Doctoral researcher
 img: assets/img/iaq4edu.png
 importance: 1
 category: Past
-related_publications:
-  - Miao2025_PINN
-  - Miao2025_NVAPF
-  - Miao2025_NVModels
-  - Miao2023_JOBE
+related_publications: true
 ---
 
 <ul class="nav nav-tabs" id="projectTabs" role="tablist">
@@ -79,3 +75,7 @@ Click to open the live website in a new tab.
 
 </div>
 </div>
+
+## References
+
+{% bibliography --query @*[key=Miao2025_PINN or key=Miao2025_NVAPF or key=Miao2025_NVModels or key=Miao2023_JOBE] %}
