@@ -318,7 +318,7 @@ ul.timeline li::before {
 .summary-line::before {
   content:"○";
   position:absolute;
-  left:-1.1rem;
+  left:0;          /* anchor bullet to padding edge */
   top:0.2rem;
   font-size:0.75rem;
   color:var(--global-text-color);
