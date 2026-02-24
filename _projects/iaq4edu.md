@@ -60,9 +60,10 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
   <!-- preview image -->
   {% include figure.liquid
-      path="assets/img/projects/iaq4edu_preview.png"
-      class="img-fluid"
-      loading="eager"
+        path="assets/img/projects/iaq4edu_preview.png"
+        class="img-fluid"
+        sizes="100vw"
+        loading="eager"
   %}
 
 </div>
