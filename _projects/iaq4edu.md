@@ -90,7 +90,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 </a>
 
 <p style="margin-top:10px; font-size:14px; color:#666;">
-Click the window below for more information about the IAQ4EDU project. 
+Click the window above for more information about the IAQ4EDU project. 
 </p>
 
 </div>
