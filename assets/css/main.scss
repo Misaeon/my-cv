@@ -39,10 +39,3 @@
 @use "font-awesome/regular";
 
 @use "repo";
-
-/* ---- darker header under projects and publications pages ---- */
-h2.category,
-h2.bibliography {
-  color: #999 !important; /* recommended (works in dark mode) */
-  /* or: var(--global-text-color) !important; */
-}
