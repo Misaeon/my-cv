@@ -75,7 +75,6 @@ cv:
       - company:  
         position: Independent Researcher
         url: https://misaeon.github.io/my-cv/cv/
-        logo: assets/img/independent_blank.png
         location: Chengdu, China
         start_date: "2019.04"
         end_date: "2021.05"
