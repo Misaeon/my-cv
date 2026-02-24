@@ -2,12 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: ""
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Current, Past]
 horizontal: false
 ---
+I have participated in and contributed to several national and EU-funded projects. Click on a project below for more details.
 
 <!-- pages/projects.md -->
 <div class="projects">
