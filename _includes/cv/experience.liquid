@@ -104,7 +104,7 @@
           {% endif %}
 
           {% if entry.summary %}
-            {% assign summary_lines = entry.summary | strip | split: "\n" %}
+            {% assign summary_lines = entry.summary | newline_to_br | split: "<br />" %}
             {% for line in summary_lines %}
               {% assign clean = line | strip %}
               {% if clean != "" %}
