@@ -104,8 +104,8 @@
           {% endif %}
 
           {% if entry.summary %}
-            {% assign summary_lines = entry.summary | newline_to_br | split: "<br />" %}
-            {% for line in summary_lines %}
+            {% assign lines = entry.summary | newline_to_br | split: "<br />" %}
+            {% for line in lines %}
               {% assign clean = line | strip %}
               {% if clean != "" %}
                 <div class="summary-line">
