@@ -324,3 +324,15 @@ ul.timeline li::before {
   font-size:0.75rem;
   color:var(--global-text-color);
 }
+
+/*****************************
+ * CV CONTACT INFORMATION ICON
+ *****************************/
+.iconcontact{
+  color:var(--global-theme-color);
+  font-size:0.85rem;
+  margin-right:0.35rem;
+  width:14px;
+  display:inline-block;
+  text-align:center;
+}
