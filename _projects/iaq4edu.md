@@ -76,6 +76,9 @@ Click to open the live website in a new tab.
 </div>
 </div>
 
-## References
-
-{% bibliography --file papers --query @*[key=Miao2025_PINN or key=Miao2025_NVAPF or key=Miao2025_NVModels or key=Miao2023_JOBE] %}
+<div style="display:none">
+{% cite Miao2025_PINN %}
+{% cite Miao2025_NVAPF %}
+{% cite Miao2025_NVModels %}
+{% cite Miao2023_JOBE %}
+</div>
