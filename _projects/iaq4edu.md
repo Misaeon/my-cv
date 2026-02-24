@@ -20,10 +20,30 @@ related_publications: true
 <div class="tab-pane fade show active" id="description" role="tabpanel">
 
 <h3>Project Overview</h3>
-
 <p>
 The project aims to optimize the ventilation strategies in educational centres, taking into account the indoor air quality, thermal comfort, energy consumption, and global costs. My doctoral thesis research was conducted within the framework of this project.
 </p>
+
+<p>
+My contributions to the research topic include:
+</p>
+
+<ul>
+  <li>
+    Measurement, analysis, and prediction of indoor environmental conditions using <strong>machine learning approach</strong>:
+    {% cite Miao2023_IAQ_TC %}, {% cite Miao2025_KMeansIndoorAir %}, {% cite Miao2023_JOBE %}.
+  </li>
+
+  <li>
+    Investigation of students' thermal comfort with <strong>improved modelling techniques</strong>:
+    {% cite Miao2024_TCModel %}, {% cite Miao2025_WindowAiringComfort %}, {% cite Miao2025_BayesianTSV %}.
+  </li>
+
+  <li>
+    Validation of natural ventilation models and development of <strong>advanced ventilation rate estimation algorithms</strong>:
+    {% cite Miao2025_NVModels %}, {% cite Miao2025_NVAPF %}, {% cite Miao2025_PINN %}.
+  </li>
+</ul>
 <p style="margin-top:10px; font-size:14px; color:#666;">
 Click the window below for more information about the IAQ4EDU project. 
 </p>
@@ -72,13 +92,6 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
 </a>
 
-
 </div>
 </div>
 
-<div style="display:none">
-{% cite Miao2025_PINN %}
-{% cite Miao2025_NVAPF %}
-{% cite Miao2025_NVModels %}
-{% cite Miao2023_JOBE %}
-</div>
