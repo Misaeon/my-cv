@@ -2,7 +2,7 @@
 layout: page
 title: IAQ4EDU
 description: Participant - Doctoral researcher
-img: assets/img/iaq4edu.png
+img: assets/img/projects/iaq4edu.png
 importance: 1
 category: Past
 related_publications: true
@@ -60,7 +60,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
   <!-- preview image -->
   {% include figure.liquid
-      path="assets/img/12.jpg"
+      path="assets/img/projects/iaq4edu_preview.png"
       class="img-fluid"
       loading="eager"
   %}
@@ -78,4 +78,4 @@ Click to open the live website in a new tab.
 
 ## References
 
-{% bibliography --query @*[key=Miao2025_PINN or key=Miao2025_NVAPF or key=Miao2025_NVModels or key=Miao2023_JOBE] %}
+{% bibliography --file papers --query @*[key=Miao2025_PINN or key=Miao2025_NVAPF or key=Miao2025_NVModels or key=Miao2023_JOBE] %}
