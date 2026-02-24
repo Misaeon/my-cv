@@ -47,9 +47,9 @@ cv:
         location: Terrassa, Spain
         start_date: 2025.10
         end_date: 2026.07
-        summary: >
-        WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
-        RESILIENT- Towards a climate-resilient future modeling strategies for the Spanish building stock
+        summary: |
+          WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
+          RESILIENT- Towards a climate-resilient future modeling strategies for the Spanish building stock
 
       - company: Group of Construction Research and Innovation，Universitat Politècnica de Catalunya
         position: Doctoral Researcher
