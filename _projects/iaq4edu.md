@@ -30,17 +30,17 @@ My contributions to the research topic include:
 
 <ul>
   <li>
-    Measurement, analysis, and prediction of indoor environmental conditions using <strong>machine learning approach</strong>:
+    Measurement, analysis, and prediction of <strong>indoor environmental conditions</strong> using <strong>machine learning approach</strong>:
     {% cite Miao2023_IAQ_TC %}, {% cite Miao2025_KMeansIndoorAir %}, {% cite Miao2023_JOBE %}.
   </li>
 
   <li>
-    Investigation of students' thermal comfort with <strong>improved modelling techniques</strong>:
+    Investigation of <strong>children' thermal comfort</strong> with <strong>improved modelling techniques</strong>:
     {% cite Miao2024_TCModel %}, {% cite Miao2025_WindowAiringComfort %}, {% cite Miao2025_BayesianTSV %}.
   </li>
 
   <li>
-    Validation of natural ventilation models and development of <strong>advanced ventilation rate estimation algorithms</strong>:
+    Validation of <strong>natural ventilation models</strong> and development of <strong>advanced ventilation rate estimation algorithms</strong>:
     {% cite Miao2025_NVModels %}, {% cite Miao2025_NVAPF %}, {% cite Miao2025_PINN %}.
   </li>
 </ul>
