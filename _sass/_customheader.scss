@@ -1,0 +1,20 @@
+/*******************************************************************************
+ * Custom header colors for category & bibliography titles
+ ******************************************************************************/
+
+/* -------- Light mode -------- */
+:root {
+  h2.category,
+  h2.bibliography {
+    color: #C0C0C0;
+    font-weight: 600; // optional, improves contrast
+  }
+}
+
+/* -------- Dark mode -------- */
+html[data-theme="dark"] {
+  h2.category,
+  h2.bibliography {
+    color: #ffffff;
+  }
+}
