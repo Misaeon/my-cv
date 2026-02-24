@@ -280,7 +280,7 @@ scholar:
   last_name: [Miao]
   first_name: [Sen]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
