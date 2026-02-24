@@ -46,14 +46,14 @@ p.location {
   font-size:0.7rem;
   text-align:center;
   position:relative;
-  padding-left:2px;   /* space reserved for icon */
+  padding-left:1px;   /* space reserved for icon */
   line-height:1.2;
   margin:0;
 }
 
 p.location i.iconlocation {
   position:absolute;
-  left:2px;
+  left:1px;
   top:50%;
   transform:translateY(-50%);
   color:var(--global-theme-color);
@@ -247,10 +247,10 @@ ul.timeline li::before {
   display:flex;
   align-items:center;
   justify-content:center;
-  margin:6px auto;
+  margin:2px auto;
   background:white;
-  border-radius:6px;
-  padding:4px;
+  border-radius:2px;
+  padding:2px;
 }
 
 .logo-box img {
