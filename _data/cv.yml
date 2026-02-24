@@ -49,7 +49,7 @@ cv:
         end_date: 2026.07
         summary: |
           WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
-          RESILIENT- Towards a climate-resilient future modeling strategies for the Spanish building stock
+          "RESILIENT- Towards a climate-resilient future: modeling strategies for the Spanish building stock"
 
       - company: Group of Construction Research and Innovation，Universitat Politècnica de Catalunya
         position: Doctoral Researcher
@@ -64,7 +64,7 @@ cv:
         location: Chengdu, China
         start_date: 2019.04
         end_date: 2021.05
-        summary: Mitigating greenhouse gas emissions of municipal solid waste management system: case study of Chengdu, China
+        summary: "Mitigating greenhouse gas emissions of municipal solid waste management system: case study of Chengdu, China"
 
     Awards:
       - title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships
@@ -73,28 +73,28 @@ cv:
         date: 2026.02
         awarder: European Commission - Horizon Europe
         url: https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers
-        summary: Project: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system
+        summary: "Project: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system"
 
       - title: Top Cited Article in 2023
         authors:
           - "Indoor Air, Wiley"
         date: 2025.03
         awarder: Indoor Air, Wiley
-        summary: Articile: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate
+        summary: "Articile: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate"
         
       - title: Research Excellence Award
         authors:
           - "City Council of Terrassa, Barcelona"
         date: 2023.11
         awarder: City Council of Terrassa, Barcelona
-        summary: Project: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings
+        summary: "Project: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings"
 
       - title: Full-time PhD scholarship
         authors:
           - "China scholarship council"
         date: 2022.05
         awarder: China scholarship council
-        summary: Project: Indoor air quality, thermal comfort, and energy efficiency trade-off of educational buildings
+        summary: "Project: Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings"
 
     Languages:
       - name: Mandarin Chinese
