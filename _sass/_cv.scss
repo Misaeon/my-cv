@@ -240,3 +240,42 @@ ul.timeline li::before {
   max-height: 100%;
   object-fit: contain;
 }
+
+/*****************************
+ * CV LANGUAGES MODERN STYLE
+ *****************************/
+
+.language-list {
+  margin-top: 0.5rem;
+}
+
+.language-row {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:0.6rem 0.5rem;
+}
+
+.language-left {
+  display:flex;
+  align-items:center;
+  gap:0.5rem;
+}
+
+.language-icon {
+  color:var(--global-theme-color);
+  font-size:0.95rem;
+}
+
+.language-name {
+  font-weight:600;
+}
+
+.language-level {
+  font-size:0.8rem;
+  background:var(--global-theme-color);
+  color:white;
+  padding:2px 8px;
+  border-radius:6px;
+  white-space:nowrap;
+}
