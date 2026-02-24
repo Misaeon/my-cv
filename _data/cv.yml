@@ -18,6 +18,7 @@ cv:
       - institution: Universitat Politècnica de Catalunya (UPC), Department of Project and Construction Engineering
         location: Terrassa, Spain
         url: https://deca.upc.edu/en/PhD_studies-research/phd/construction-engineering/construction-engineering
+        logo: assets/img/upc.png
         area: "Thesis: Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings"
         studyType: Ph.D., Cum Laude in Construction Engineering
         start_date: "2021.10"
@@ -26,6 +27,7 @@ cv:
       - institution: Universiteit Twente (UT), Section of Governance and Technology for Sustainability
         location: Leeuwarden, Netherlands
         url: https://www.utwente.nl/en/education/master/programmes/environmental-energy-management/
+        logo: assets/img/ut.png
         area: "Thesis: Towards a circular economy: Household participation in sustainable municipal solid waste management in Chengdu, China"
         studyType: M.Sc in Environmental and Energy Management
         start_date: "2017.09"
@@ -34,6 +36,7 @@ cv:
       - institution: Chengdu University of Technology (CDUT), Department of Civil and Environmental Engineering
         location: Chengdu, China
         url: https://www.cdut.edu.cn/en/
+        logo: assets/img/cdut.png
         area: "Thesis: Mechanical analysis of retaining wall under seismic loading"
         studyType: B.E in Engineering Mechanics
         start_date: "2013.09"
@@ -43,6 +46,7 @@ cv:
       - company: Chalmers University of Technology, Division of Building Services Engineering
         position: Marie Curie Postdoc Fellow
         url: https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/
+        logo: assets/img/chalmers.png
         location: Gothenburg, Sweden
         start_date: "2026.09"
         end_date: "2028.09"
@@ -51,6 +55,7 @@ cv:
       - company: Universitat Politècnica de Catalunya, Group of Construction Research and Innovation
         position: Research Associate 
         url: https://gric.upc.edu/en?set_language=en
+        logo: assets/img/upc.png
         location: Terrassa, Spain
         start_date: "2025.10"
         end_date: "2026.07"
@@ -61,6 +66,7 @@ cv:
       - company: Universitat Politècnica de Catalunya, Group of Construction Research and Innovation
         position: Doctoral Researcher
         url: https://gric.upc.edu/en?set_language=en
+        logo: assets/img/upc.png
         location: Terrassa, Spain
         start_date: "2021.10"
         end_date: "2025.07"
@@ -81,6 +87,7 @@ cv:
         date: "2026"
         awarder: European Commission - Horizon Europe
         url: https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers
+        logo: assets/img/msca.png
         summary: "Title: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system"
 
       - title: Top Cited Article Award
@@ -89,6 +96,7 @@ cv:
         date: "2025"
         awarder: Indoor Air, Wiley
         url: https://onlinelibrary.wiley.com/journal/ina
+        logo: assets/img/ia_certificate.png
         summary: "Top 10 cited article published in 2023: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate"
         
       - title: Research Excellence Award
@@ -97,6 +105,7 @@ cv:
         date: "2023"
         awarder: City Council of Terrassa, Barcelona
         url: https://www.terrassa.cat/beques-de-recerca
+        logo: assets/img/terrassa_award.png
         summary: "Title: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings"
 
       - title: Full-time PhD scholarship
@@ -105,6 +114,7 @@ cv:
         date: "2022"
         awarder: China scholarship council
         url: https://www.csc.edu.cn/
+        logo: assets/img/csc.png
         summary: "Title: Indoor air quality and thermal comfort of educational buildings"
 
     Languages:
