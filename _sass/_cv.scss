@@ -220,13 +220,17 @@ ul.timeline li::before {
 }
 */
 
+.date-column {
+  min-width:120px;
+}
+
 /*****************************
  * CV LOGO SIZE FIX
  *****************************/
 
 .logo-box {
-  width:80px;
-  height:80px;
+  width:72px;
+  height:72px;
   display:flex;
   align-items:center;
   justify-content:center;
