@@ -5,10 +5,10 @@ repo_description_lines_max: 2
 
 github_repos:
   - name: misaeon/CO2-Based-Natural-Ventilation-Rate-Estimation-Tool
-    image: /assets/img/repo_nvapf.png
+    image: /assets/img/tools/repo_nvapf.png
 
   - name: misaeon/Bayesian-Mean-Thermal-Sensation-Vote-Calculator
-    image: /assets/img/repo_bmtsv.png
+    image: /assets/img/tools/repo_bmtsv.png
 
   - name: misaeon/Natural-Ventilation-Operation-Guide-Tool
-    image: /assets/img/repo_ventguide.png
+    image: /assets/img/tools/repo_ventguide.png
