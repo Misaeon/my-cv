@@ -61,7 +61,7 @@
                 <td>
                   <p class="location">
                     <i class="fa-solid fa-location-dot iconlocation"></i>
-                    {{ location }}
+                    {{ location | replace: ', ', ',<br>' }}
                   </p>
                 </td>
               </tr>
