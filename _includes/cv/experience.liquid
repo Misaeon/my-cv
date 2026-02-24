@@ -104,9 +104,15 @@
           {% endif %}
 
           {% if entry.summary %}
-            <div class="ml-1 ml-md-4 summary-line">
-              {{ entry.summary | newline_to_br | markdownify | remove: '<p>' | remove: '</p>' }}
-            </h6>
+            {% assign summary_lines = entry.summary | strip | split: "\n" %}
+            <ul class="cv-summary ml-1 ml-md-4">
+              {% for line in summary_lines %}
+                {% assign clean = line | strip %}
+                {% if clean != "" %}
+                  <li>{{ clean | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+                {% endif %}
+              {% endfor %}
+            </ul>
           {% endif %}
 
           {% if entry.highlights %}
