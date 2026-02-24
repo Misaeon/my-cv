@@ -1,6 +1,6 @@
 cv:
   email: sen.miao@outlook.com
-  Office: 307, TR5, C. Colom, 1, 08222 Terrassa, Barcelona
+  location: 307, TR5, C. Colom, 1, 08222 Terrassa, Barcelona
 
   social_networks:
     - network: 
@@ -9,161 +9,105 @@ cv:
   sections:
     Education:
       - institution: Universitat Politècnica de Catalunya (UPC)
-        location: Barcelona, Spain
-        url: \https://www.upc.edu/
-        area: Construction Engineering
+        location: Terrassa, Spain
+        url: https://deca.upc.edu/en/PhD_studies-research/phd/construction-engineering/construction-engineering
+        area: Department of Project and Construction Engineering
         studyType: Ph.D., Cum Laude in Construction Engineering
-        start_date: 2021-10
-        end_date: 2025-07
+        start_date: 2021.10
+        end_date: 2025.07
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Universiteit Twente (UT)
+        location: Leeuwarden, Netherlands
+        url: https://www.utwente.nl/en/education/master/programmes/environmental-energy-management/
+        area: Section of Governance and Technology for Sustainability
+        studyType: M.Sc in Environmental and Energy Management
+        start_date: 2017.09
+        end_date: 2018.09
+
+      - institution: Chengdu University of Technology (CDUT)
+        location: Chengdu, China
+        url: https://www.cdut.edu.cn/en/
+        area: Department of Civil and Environmental Engineering
+        studyType: B.E in Engineering Mechanics
+        start_date: 2013.09
+        end_date: 2017.07
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Building Services Engineering, Chalmers University of Technology
+        position: Marie Curie Postdoc Fellow
+        url: https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/
+        location: Gothenburg, Sweden
+        start_date: 2026.09
+        end_date: 2028.09
+        summary: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Group of Construction Research and Innovation，Universitat Politècnica de Catalunya
+        position: Research Associate 
+        url: https://gric.upc.edu/en?set_language=en
+        location: Terrassa, Spain
+        start_date: 2025.10
+        end_date: 2026.07
+        summary: >
+        WEF4Build - Boosting climate resilience through water-energy-food nexus-based solutions
+        RESILIENT- Towards a climate-resilient future modeling strategies for the Spanish building stock
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Group of Construction Research and Innovation，Universitat Politècnica de Catalunya
+        position: Doctoral Researcher
+        url: https://gric.upc.edu/en?set_language=en
+        location: Terrassa, Spain
+        start_date: 2021.10
+        end_date: 2025.07
+        summary: IAQ4EDU - Optimal ventilation strategies for balancing indoor air quality, comfort and energy use in educational buildings
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company:  
+        position: Independent Researcher
+        location: Chengdu, China
+        start_date: 2019.04
+        end_date: 2021.05
+        summary: Mitigating greenhouse gas emissions of municipal solid waste management system: case study of Chengdu, China
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "European Commission - Horizon Europe"
+        date: 2026.02
+        awarder: European Commission - Horizon Europe
+        url: https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers
+        summary: Project: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system
 
-      - title: Max Planck Medal
+      - title: Top Cited Article in 2023
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+          - "Indoor Air, Wiley"
+        date: 2025.03
+        awarder: Indoor Air, Wiley
+        summary: Articile: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate
+        
+      - title: Research Excellence Award
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "City Council of Terrassa, Barcelona"
+        date: 2023.11
+        awarder: City Council of Terrassa, Barcelona
+        summary: Project: Data-driven model for predicting indoor air quality and thermal comfort in naturally ventilated educational buildings
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Full-time PhD scholarship
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+          - "China scholarship council"
+        date: 2022.05
+        awarder: China scholarship council
+        summary: Project: Indoor air quality, thermal comfort, and energy efficiency trade-off of educational buildings
 
     Languages:
-      - name: German
+      - name: Mandarin Chinese
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "C1 (IELTS 7.5)"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Spanish
+        summary: "B1"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Japanese
+        summary: "B1"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Swedish
+        summary: "A1"
