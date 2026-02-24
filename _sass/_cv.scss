@@ -304,3 +304,23 @@ ul.timeline li::before {
   border-radius:10px;
   font-size:0.75rem;
 }
+
+/*****************************
+ * CV SUMMARY BULLET STYLE
+ *****************************/
+
+.summary-line {
+  font-size:0.95rem;
+  margin-left:1rem;
+  position:relative;
+  line-height:1.5;
+}
+
+.summary-line::before {
+  content:"○";
+  font-size:0.55rem;
+  position:absolute;
+  left:-12px;
+  top:6px;
+  color:var(--global-theme-color);
+}
