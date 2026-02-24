@@ -319,7 +319,7 @@ ul.timeline li::before {
 .summary-line::before{
   content:"○";
   position:absolute;
-  left:0;
+  left:0.25rem;
   top:0.25rem;
   font-size:0.75rem;
   color:var(--global-text-color);
