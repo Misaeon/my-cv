@@ -77,12 +77,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-iaq4edu",
-          title: 'IAQ4EDU',
-          description: "Participant - Doctoral researcher",
-          section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -122,6 +117,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/9_project/";
+            },},{id: "projects-iaq4edu",
+          title: 'IAQ4EDU',
+          description: "Participant - Doctoral researcher",
+          section: "Projects",handler: () => {
+              window.location.href = "/my-cv/projects/iaq4edu/";
             },},{id: "teachings-indoor-climate-amp-hvac-technology",
           title: 'Indoor Climate &amp;amp; HVAC Technology',
           description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and occupant comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational, commercial and residential buildings.",
