@@ -6,7 +6,7 @@ cv:
     street: 307, TR5, C. Colom, 1
     city: Terrassa
     region: Barcelona
-    postalCode: "08022"
+    postalCode:
     countryCode: Spain
 
   social_networks:
@@ -119,10 +119,10 @@ cv:
 
     Languages:
       - name: Mandarin Chinese
-        summary: "Native speaker"
+        summary: "Native"
 
       - name: English
-        summary: "C1 (IELTS 7.5)"
+        summary: "C1 - IELTS 7.5"
 
       - name: Spanish
         summary: "B1"
