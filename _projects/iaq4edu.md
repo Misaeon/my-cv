@@ -44,9 +44,6 @@ My contributions to the research topic include:
     {% cite Miao2025_NVModels %}, {% cite Miao2025_NVAPF %}, {% cite Miao2025_PINN %}.
   </li>
 </ul>
-<p style="margin-top:10px; font-size:14px; color:#666;">
-Click the window below for more information about the IAQ4EDU project. 
-</p>
 
 <!-- ========================= -->
 <!-- Browser Preview -->
@@ -92,9 +89,9 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
 </a>
 
-
-
-
+<p style="margin-top:10px; font-size:14px; color:#666;">
+Click the window below for more information about the IAQ4EDU project. 
+</p>
 
 </div>
 </div>
