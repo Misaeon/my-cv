@@ -108,7 +108,7 @@
             {% for line in summary_lines %}
               {% assign clean = line | strip %}
               {% if clean != "" %}
-                <div class="summary-line ml-1 ml-md-4">
+                <div class="summary-line">
                   {{ clean | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
               {% endif %}
