@@ -1,12 +1,12 @@
 cv:
   email: sen.miao@outlook.com
-  Address: 307, TR5, C. Colom, 1, 08222 Terrassa, Barcelona
+  Address: 307, TR5, C. Colom, 1, Terrassa, Barcelona
 
   address:
     street: 307, TR5, C. Colom, 1
     city: Terrassa
     region: Barcelona
-    postalCode: 08022, Barcelona
+    postalCode: "08022"
     countryCode: Spain
 
   social_networks:
