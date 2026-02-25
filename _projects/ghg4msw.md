@@ -21,7 +21,7 @@ related_publications: true
 
 <h3>Project Overview</h3>
 <p>
-This is my first research project, which is a continuation of my master’s thesis, “Towards a Circular Economy: Household Participation in Sustainable Municipal Solid Waste Management in Chengdu, China.” I initiated this independent research after completing my master’s degree and carried out all aspects of the project myself, including research design, literature review, fieldwork, data collection and analysis, and paper writing. The project is especially meaningful to me, as it marks the start of my research career.
+This is my first research project, which is a continuation of my master’s thesis, <em>“Towards a Circular Economy: Household Participation in Sustainable Municipal Solid Waste Management in Chengdu, China.”</em> I initiated this independent research after completing my master’s degree and carried out all aspects of the project myself, including research design, literature review, fieldwork, data collection and analysis, and paper writing. The project is especially meaningful to me, as it marks the start of my research career.
 </p>
 
 <p>
