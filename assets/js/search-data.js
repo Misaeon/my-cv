@@ -87,6 +87,11 @@ ninja.data = [{
           description: "Participant - Doctoral researcher",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/iaq4edu/";
+            },},{id: "projects-next-icm",
+          title: 'NEXT-ICM',
+          description: "Principal Investigator",
+          section: "Projects",handler: () => {
+              window.location.href = "/my-cv/projects/nexticm/";
             },},{id: "projects-resilient",
           title: 'RESILIENT',
           description: "Participant - Research Associate",
