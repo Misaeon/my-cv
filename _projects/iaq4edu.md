@@ -21,7 +21,11 @@ related_publications: true
 
 <h3>Project Overview</h3>
 <p>
-The project aims to optimize the ventilation strategies in educational centres, taking into account the indoor air quality, thermal comfort, energy consumption, and global costs. My doctoral thesis research was conducted within the framework of this project.
+The project aims to optimize the ventilation strategies in educational centres, taking into account the indoor air quality, thermal comfort, energy consumption, and global costs. 
+</p>
+
+<p>
+My doctoral thesis research was conducted within the framework of this project.
 </p>
 
 <p>
