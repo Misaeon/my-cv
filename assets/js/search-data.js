@@ -102,16 +102,16 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/6_project/";
+            },},{id: "projects-ghg4msw",
+          title: 'GHG4MSW',
+          description: "Independent researcher",
+          section: "Projects",handler: () => {
+              window.location.href = "/my-cv/projects/ghg4msw/";
             },},{id: "projects-iaq4edu",
           title: 'IAQ4EDU',
           description: "Participant - Doctoral researcher",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/iaq4edu/";
-            },},{id: "projects-iaq4edu",
-          title: 'IAQ4EDU',
-          description: "Participant - Doctoral researcher",
-          section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/mswm/";
             },},{id: "projects-resilient",
           title: 'RESILIENT',
           description: "Participant - Research Associate",
