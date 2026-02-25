@@ -69,7 +69,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
   <!-- preview image -->
   {% include figure.liquid
-        path="assets/img/projects/iaq4edu_preview.png"
+        path="assets/img/projects/ghg4msw_preview.png"
         class="img-fluid"
         sizes="100vw"
         loading="eager"
