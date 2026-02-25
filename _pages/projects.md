@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [Current, Past]
 horizontal: false
 ---
-I have participated in and contributed to several national and EU-funded projects. Click on a project below for more details.
+I have participated in several research projects and have contributed to some research topics. Click on any project below for more details.
 
 <!-- pages/projects.md -->
 <div class="projects">
