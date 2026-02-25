@@ -1,8 +1,8 @@
 ---
 layout: page
-title: IAQ4EDU
-description: Participant - Doctoral researcher
-img: assets/img/projects/iaq4edu.png
+title: GHG4MSW
+description: Independent researcher
+img: assets/img/projects/ghg4msw.png
 importance: 1
 category: Past
 related_publications: true
@@ -21,27 +21,17 @@ related_publications: true
 
 <h3>Project Overview</h3>
 <p>
-The project aims to optimize the ventilation strategies in educational centres, taking into account the indoor air quality, thermal comfort, energy consumption, and global costs. My doctoral thesis research was conducted within the framework of this project.
+This is my first research project, which is a continuation of my master’s thesis, “Towards a Circular Economy: Household Participation in Sustainable Municipal Solid Waste Management in Chengdu, China.” I initiated this independent research after completing my master’s degree and carried out all aspects of the project myself, including research design, literature review, fieldwork, data collection and analysis, and paper writing. The project is especially meaningful to me, as it marks the start of my research career.
 </p>
 
 <p>
-My contributions to the research topic include:
+I completed this project with a sole-authored article:
 </p>
 
 <ul>
   <li>
-    Measurement, analysis, and prediction of <strong>indoor environmental conditions</strong> using <strong>machine learning approach</strong>:
-    {% cite Miao2023_IAQ_TC %}, {% cite Miao2025_KMeansIndoorAir %}, {% cite Miao2023_JOBE %}.
-  </li>
-
-  <li>
-    Investigation of <strong>children' thermal comfort</strong> with <strong>improved modelling techniques</strong>:
-    {% cite Miao2024_TCModel %}, {% cite Miao2025_WindowAiringComfort %}, {% cite Miao2025_BayesianTSV %}.
-  </li>
-
-  <li>
-    Validation of <strong>natural ventilation</strong> models and development of <strong>advanced ventilation rate estimation algorithms</strong>:
-    {% cite Miao2025_NVModels %}, {% cite Miao2025_NVAPF %}, {% cite Miao2025_PINN %}.
+    Mitigating greenhouse gas emissions of municipal solid waste management system: case study of Chengdu, China
+    {% cite Miao2020_JMCWM %}
   </li>
 </ul>
 
@@ -49,7 +39,7 @@ My contributions to the research topic include:
 <!-- Browser Preview -->
 <!-- ========================= -->
 
-<a href="https://iaq4edu.upc.edu/en" target="_blank" style="text-decoration:none;">
+<a href="https://link.springer.com/article/10.1007/s10163-020-01150-y" target="_blank" style="text-decoration:none;">
 
 <div style="
 border:1px solid #ddd;
@@ -74,7 +64,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
       <span style="width:10px;height:10px;background:#27c93f;border-radius:50%;display:inline-block;"></span>
     </div>
 
-    https://iaq4edu.upc.edu/en
+    https://link.springer.com
   </div>
 
   <!-- preview image -->
@@ -90,7 +80,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 </a>
 
 <p style="margin-top:10px; font-size:14px; color:#666;">
-Click the window above for more information about the IAQ4EDU project. 
+Click the window above for more information about the GHG4MSW project. 
 </p>
 
 </div>
