@@ -3,7 +3,7 @@ layout: page
 title: WEF4BUILD
 description: Participant - Research Associate
 img: assets/img/projects/wef4build.png
-importance: 1
+importance: 2
 category: Current
 related_publications: true
 ---
