@@ -7,7 +7,7 @@ nav_order: 6
 calendar: true
 ---
 
-I teach some courses listed here and enjoy working closely with students through teaching, mentoring, and research collaboration.
+We learn from each other, and I would like to share my experience and knowledge with you. 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Europe/Stockholm' %}
 
