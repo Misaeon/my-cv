@@ -102,11 +102,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/7_project/";
             },},{id: "projects-iaq4edu",
           title: 'IAQ4EDU',
           description: "Participant - Doctoral researcher",
