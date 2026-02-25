@@ -21,7 +21,11 @@ related_publications: true
 
 <h3>Project Overview</h3>
 <p>
-The project aims to assess the impact of climate-resilient strategies on the Spanish building stock and to develop an innovative decision-making model for optimizing the allocation of funds in climate-resilient retrofitting, across both individual buildings and large portfolios. I am currently working as a research associate in the project.
+The project aims to assess the impact of climate-resilient strategies on the Spanish building stock and to develop an innovative decision-making model for optimizing the allocation of funds in climate-resilient retrofitting, across both individual buildings and large portfolios. 
+</p>
+
+<p>
+I am currently working as a research associate in the project.
 </p>
 
 <!-- ========================= -->
