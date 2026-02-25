@@ -25,7 +25,7 @@ The project aims to optimize the ventilation strategies in educational centres, 
 </p>
 
 <p>
-My doctoral thesis research was conducted within the framework of this project.
+My doctoral thesis research was conducted within the framework of this project, entitled <em>"Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings."</em>
 </p>
 
 <p>
