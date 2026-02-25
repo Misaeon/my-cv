@@ -107,9 +107,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-resilient",
+          title: 'RESILIENT',
+          description: "Participant - Research Associate",
           section: "Projects",handler: () => {
               window.location.href = "/my-cv/projects/8_project/";
             },},{id: "projects-iaq4edu",
