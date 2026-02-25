@@ -21,7 +21,11 @@ related_publications: true
 
 <h3>Project Overview</h3>
 <p>
-The project aims to boost buildings' climate resilience with the use of water-food-energy nexus based solutions in buildings' rooftops as a mitigation and adaptation strategy. I am currently working as a research associate in the project.
+The project aims to boost buildings' climate resilience with the use of water-food-energy nexus based solutions in buildings' rooftops as a mitigation and adaptation strategy. 
+</p>
+
+<p>
+I am currently working as a research associate in the project.
 </p>
 
 <!-- ========================= -->
