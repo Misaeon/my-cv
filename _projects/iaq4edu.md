@@ -40,7 +40,7 @@ My contributions to the research topic include:
   </li>
 
   <li>
-    Validation of <strong>natural ventilation models</strong> and development of <strong>advanced ventilation rate estimation algorithms</strong>:
+    Validation of <strong>natural ventilation</strong> models and development of <strong>advanced ventilation rate estimation algorithms</strong>:
     {% cite Miao2025_NVModels %}, {% cite Miao2025_NVAPF %}, {% cite Miao2025_PINN %}.
   </li>
 </ul>
