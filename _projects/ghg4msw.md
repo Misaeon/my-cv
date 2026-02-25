@@ -3,7 +3,7 @@ layout: page
 title: GHG4MSW
 description: Independent researcher
 img: assets/img/projects/ghg4msw.png
-importance: 1
+importance: 2
 category: Past
 related_publications: true
 ---
