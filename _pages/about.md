@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a [**Marie Curie** postdoc fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) at [Building Services Engineering, Chalmers University of Technology](https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/).
+I am a [**Marie Curie** postdoc fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers) at [Building Services Engineering, Chalmers University of Technology](https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/).
 
 As a big fan of **Statistical Inference** and **Machine Learning**, my research focuses on **Building Informatics** and **Indoor Environmental Quality**, with particular interests in:
 
