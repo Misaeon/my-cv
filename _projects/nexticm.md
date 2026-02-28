@@ -58,7 +58,7 @@ box-shadow:0 6px 18px rgba(0,0,0,0.08);
 
   <!-- preview image -->
   {% include figure.liquid
-        path=""
+        path="assets/img/projects/nexticm_preview.png"
         class="img-fluid"
         sizes="100vw"
         loading="eager"
