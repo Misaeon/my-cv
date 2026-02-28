@@ -7,42 +7,42 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/my-cv/";
+      window.location.href = "/";
     },
   },{id: "nav-about-me",
           title: "About me",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/my-cv/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/my-cv/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/my-cv/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-tools",
           title: "Tools",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/my-cv/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/my-cv/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -73,7 +73,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/my-cv/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -81,32 +81,32 @@ ninja.data = [{
           title: 'GHG4MSW',
           description: "Independent researcher",
           section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/ghg4msw/";
+              window.location.href = "/projects/ghg4msw/";
             },},{id: "projects-iaq4edu",
           title: 'IAQ4EDU',
           description: "Participant - Doctoral researcher",
           section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/iaq4edu/";
+              window.location.href = "/projects/iaq4edu/";
             },},{id: "projects-next-icm",
           title: 'NEXT-ICM',
           description: "Principal Investigator",
           section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/nexticm/";
+              window.location.href = "/projects/nexticm/";
             },},{id: "projects-resilient",
           title: 'RESILIENT',
           description: "Participant - Research Associate",
           section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/resilient/";
+              window.location.href = "/projects/resilient/";
             },},{id: "projects-wef4build",
           title: 'WEF4BUILD',
           description: "Participant - Research Associate",
           section: "Projects",handler: () => {
-              window.location.href = "/my-cv/projects/wef4build/";
+              window.location.href = "/projects/wef4build/";
             },},{id: "teachings-indoor-climate-amp-hvac-technology",
           title: 'Indoor Climate &amp;amp; HVAC Technology',
           description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and occupant comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational, commercial and residential buildings.",
           section: "Teachings",handler: () => {
-              window.location.href = "/my-cv/teachings/indoor-climate-hvac-technology/";
+              window.location.href = "/teachings/indoor-climate-hvac-technology/";
             },},{
         id: 'social-custom_social',
         title: 'Custom_social',
