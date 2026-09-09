@@ -89,7 +89,7 @@ ninja.data = [{
               window.location.href = "/projects/iaq4edu/";
             },},{id: "projects-next-icm",
           title: 'NEXT-ICM',
-          description: "Principal Investigator",
+          description: "Principal investigator",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nexticm/";
             },},{id: "projects-resilient",
