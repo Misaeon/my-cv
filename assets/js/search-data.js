@@ -94,12 +94,12 @@ ninja.data = [{
               window.location.href = "/projects/nexticm/";
             },},{id: "projects-resilient",
           title: 'RESILIENT',
-          description: "Participant - Research Associate",
+          description: "Participant - Research associate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/resilient/";
             },},{id: "projects-wef4build",
           title: 'WEF4BUILD',
-          description: "Participant - Research Associate",
+          description: "Participant - Research associate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wef4build/";
             },},{id: "teachings-indoor-climate-amp-hvac-technology",
