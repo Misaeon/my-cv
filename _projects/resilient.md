@@ -25,7 +25,7 @@ The project aims to assess the impact of climate-resilient strategies on the Spa
 </p>
 
 <p>
-I am currently working as a research associate in the project.
+I am currently working as an affiliated researcher in the project, co-directing a thesis on the topic of "AI-assisted climate-resilient retrofitting of buildings". I participated in the work: .
 </p>
 
 <!-- ========================= -->
