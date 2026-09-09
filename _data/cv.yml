@@ -19,8 +19,8 @@ cv:
         location: Terrassa, Spain
         url: https://deca.upc.edu/en/PhD_studies-research/phd/construction-engineering/construction-engineering
         logo: assets/img/cv/upc.png
-        area: "Thesis: Contributions to the assessment of indoor air quality, thermal comfort and ventilation in educational buildings"
-        studyType: Ph.D., Cum Laude in Construction Engineering
+        area: 
+        studyType: Ph.D. (Cum Laude) in Construction Engineering
         start_date: "2021.10"
         end_date: "2025.07"
 
@@ -28,7 +28,7 @@ cv:
         location: Leeuwarden, Netherlands
         url: https://www.utwente.nl/en/education/master/programmes/environmental-energy-management/
         logo: assets/img/cv/ut.png
-        area: "Thesis: Towards a circular economy: Household participation in sustainable municipal solid waste management in Chengdu, China"
+        area: 
         studyType: M.Sc. in Environmental and Energy Management
         start_date: "2017.09"
         end_date: "2018.09"
@@ -37,7 +37,7 @@ cv:
         location: Chengdu, China
         url: https://www.cdut.edu.cn/en/
         logo: assets/img/cv/cdut.png
-        area: "Thesis: Mechanical analysis of retaining wall under seismic loading"
+        area: 
         studyType: B.E. in Engineering Mechanics
         start_date: "2013.09"
         end_date: "2017.07"
@@ -115,7 +115,7 @@ cv:
         awarder: China Scholarship Council
         url: https://www.csc.edu.cn/
         logo: assets/img/cv/csc.png
-        summary: "Title: Indoor air quality and thermal comfort of educational buildings"
+        summary: 
 
     Languages:
       - name: Mandarin Chinese
