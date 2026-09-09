@@ -1,12 +1,12 @@
 cv:
   email: sen.miao@outlook.com
-  Address: Sven Hultins gata 6, 3rd Floor, 412 58 Göteborg, Sweden
+  Address: Sven Hultins gata 6, 41258 Göteborg, Sweden
 
   address:
     street: Sven Hultins gata 6
     city: Göteborg
     region: 
-    postalCode: 412 58
+    postalCode:
     countryCode: Sweden
 
 
