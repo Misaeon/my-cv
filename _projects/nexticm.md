@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NEXT-ICM
-description: Principal Investigator
+description: Principal investigator
 img: assets/img/projects/nexticm.png
 importance: 1
 category: Current
