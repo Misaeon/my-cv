@@ -6,7 +6,7 @@ subtitle: Welcome to my Website!😁
 
 profile:
   align: right
-  image: profile_photo2.jpg
+  image: profile_photo3.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
