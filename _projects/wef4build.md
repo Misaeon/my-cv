@@ -25,7 +25,7 @@ The project aims to boost buildings' climate resilience with the use of water-fo
 </p>
 
 <p>
-I worked as a postdoc researcher on this project and participated in the work: {% cite Miao2023_IAQ_TC %}.
+I worked as a postdoc researcher on this project and participated in the work: {% cite Casals2026_Stock %}.
 </p>
 
 <!-- ========================= -->
