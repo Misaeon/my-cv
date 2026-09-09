@@ -1,13 +1,14 @@
 cv:
   email: sen.miao@outlook.com
-  Address: 307, TR5, C. Colom, 1, Terrassa, Barcelona
+  Address: Sven Hultins gata 6, 3rd Floor, 412 58 Göteborg, Sweden
 
   address:
-    street: 307, TR5, C. Colom, 1
-    city: Terrassa
-    region: Barcelona
-    postalCode:
-    countryCode: Spain
+    street: Sven Hultins gata 6
+    city: Göteborg
+    region: 
+    postalCode:412 58
+    countryCode: Sweden
+
 
   social_networks:
     - network: 
