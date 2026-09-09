@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RESILIENT
-description: Participant - Research Associate
+description: Participant - Research associate
 img: assets/img/projects/resilient.png
 importance: 3
 category: Current
