@@ -28,8 +28,10 @@ I am a [**Marie Curie** research fellow](https://marie-sklodowska-curie-actions.
 
 As a big fan of **Statistical Inference** and **Machine Learning**, my research focuses on **Building Informatics** and **Indoor Environmental Quality**, with particular interests in:
 
-i) Analyzing key factors influencing indoor environmental quality and occupants’ perceptions;
+i) Physics-informed machine learning;
 
-ii) Modeling human–building interactions under system uncertainties; 
+ii) Uncertainty-aware system modelling; 
 
-iii) Developing advanced predictive models and control algorithms for intelligent building management.
+iii) Agent-based simulation;
+
+iv) AI-assisted human–building interaction. 
