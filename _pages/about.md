@@ -32,6 +32,6 @@ i) Physics-informed machine learning;
 
 ii) Uncertainty-aware system modelling; 
 
-iii) Agent-based simulation;
+iii) Agent-based building simulation;
 
-iv) AI-assisted human–building interaction. 
+iv) AI-enabled human–building interaction. 
