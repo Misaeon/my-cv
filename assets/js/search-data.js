@@ -109,6 +109,11 @@ ninja.data = [{
           description: "Participant - Research associate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wef4build/";
+            },},{id: "supervisions-contributions-to-the-climate-resilient-retrofitting-of-buildings",
+          title: 'Contributions to the climate-resilient retrofitting of buildings',
+          description: "",
+          section: "Supervisions",handler: () => {
+              window.location.href = "/supervision/contributions-to-climate-resilient-retrofitting-of-buildings/";
             },},{id: "teachings-indoor-climate-amp-hvac-technology",
           title: 'Indoor Climate &amp;amp; HVAC Technology',
           description: "This course introduces the fundamentals of indoor environmental quality, HVAC systems, ventilation strategies, and occupant comfort. Students will learn how building systems influence indoor climate and occupant wellbeing, with practical applications in educational, commercial and residential buildings.",
