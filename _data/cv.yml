@@ -120,9 +120,10 @@ cv:
     Service:
       - title: Academic Editor
         organization: Indoor Air, Wiley
+        logo: assets/img/publication_preview/ia.png
 
       - title: Peer-reviewer
-        organization: Building and Environment, Journal of Building Engineering, Indoor Air, Indoor Environments, Sustainable Cities and Society, Case Studies in Thermal Engineering
+        organization: Building and Environment | Journal of Building Engineering | Indoor Air | Indoor Environments | Sustainable Cities and Society | Case Studies in Thermal Engineering
 
     Languages:
       - name: Mandarin Chinese

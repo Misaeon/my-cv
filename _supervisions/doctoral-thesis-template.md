@@ -5,12 +5,12 @@ description: Add a one- or two-sentence summary for the Supervision overview pag
 thesis_type: doctoral
 student: Student name
 institution: University name
+logo: assets/img/cv/upc.png
 period: 2026–present
 year: 2026
 status: Ongoing
-supervisors:
-  - Dr. Sen Miao
-  - Co-supervisor name
+supervisor: Supervisor name
+co_supervisor: Dr. Sen Miao
 publications:
   - title: Replace with the title of a related publication
     authors: Author One, Author Two, and Sen Miao

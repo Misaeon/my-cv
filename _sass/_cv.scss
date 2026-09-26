@@ -43,22 +43,22 @@ a.btncv:hover {
  *****************************/
 
 p.location {
-  font-size:0.7rem;
-  text-align:center;
-  position:relative;
-  padding-left:1px;   /* space reserved for icon */
-  line-height:1.2;
-  margin:0;
-  margin-top:8px;  
+  font-size: 0.7rem;
+  text-align: center;
+  position: relative;
+  padding-left: 1px; /* space reserved for icon */
+  line-height: 1.2;
+  margin: 0;
+  margin-top: 8px;
 }
 
 p.location i.iconlocation {
-  position:absolute;
-  left:1px;
-  top:50%;
-  transform:translateY(-50%);
-  color:var(--global-theme-color);
-  font-size:0.75rem;
+  position: absolute;
+  left: 1px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--global-theme-color);
+  font-size: 0.75rem;
 }
 
 /* REMOVE old standalone iconlocation sizing */
@@ -83,13 +83,13 @@ td.department {
 }
 
 div.container-links {
-  display:flex;
-  flex-direction:row;
-  flex-wrap:wrap;
-  align-items:center;
-  justify-content:flex-start;
-  margin-top:1rem;
-  margin-bottom:0.5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 /*****************************
@@ -233,9 +233,9 @@ ul.timeline li::before {
  * CV BADGE CONSISTENCY
  *****************************/
 .date-column .badge {
-  min-width:120px;
-  display:inline-block;
-  text-align:center;
+  min-width: 120px;
+  display: inline-block;
+  text-align: center;
 }
 
 /*****************************
@@ -243,15 +243,15 @@ ul.timeline li::before {
  *****************************/
 
 .logo-box {
-  width:120px;
-  height:120px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  margin:2px auto;
-  background:white;
-  border-radius:2px;
-  padding:2px;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px auto;
+  background: white;
+  border-radius: 2px;
+  padding: 2px;
 }
 
 .logo-box img {
@@ -261,78 +261,110 @@ ul.timeline li::before {
 }
 
 /*****************************
+ * CV SERVICE styles
+ *****************************/
+
+.service-entry {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.service-logo {
+  display: flex;
+  flex: 0 0 90px;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 110px;
+  border-radius: 3px;
+  padding: 3px;
+  background: white;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+
+.service-content {
+  min-width: 0;
+}
+
+/*****************************
  * MODERN LANGUAGE PILLS
  *****************************/
 
 .language-pills {
-  display:flex;
-  flex-wrap:wrap;
-  gap:10px;
-  margin-top:0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 0.5rem;
 }
 
 .language-pill {
-  display:inline-flex;
-  align-items:center;
-  gap:6px;
-  background:var(--global-theme-color);
-  color:white !important;
-  padding:6px 12px;
-  border-radius:20px;
-  font-size:0.85rem;
-  font-weight:500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--global-theme-color);
+  color: white !important;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
 }
 
 .language-pill:hover {
-  transform:translateY(-1px);
-  box-shadow:0 2px 6px rgba(0,0,0,0.15);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
 .lang-icon {
-  font-size:0.9rem;
+  font-size: 0.9rem;
 }
 
 .lang-text {
-  font-weight:600;
-  color:white !important;
+  font-weight: 600;
+  color: white !important;
 }
 
 .lang-level {
-  background:white;
-  color:black;
-  padding:1px 6px;
-  border-radius:10px;
-  font-size:0.75rem;
+  background: white;
+  color: black;
+  padding: 1px 6px;
+  border-radius: 10px;
+  font-size: 0.75rem;
 }
 
 /*****************************
  * CV SUMMARY BULLET STYLE
  *****************************/
-.summary-line{
-  position:relative;
-  margin-left:1.5rem;
-  padding-left:0.75rem;   /* 🔥 indent spacing */
-  line-height:1.5;
-  font-size:0.95rem;
+.summary-line {
+  position: relative;
+  margin-left: 1.5rem;
+  padding-left: 0.75rem; /* 🔥 indent spacing */
+  line-height: 1.5;
+  font-size: 0.95rem;
 }
 
-.summary-line::before{
-  content:"○";
-  position:absolute;
-  left:0.25rem;
-  top:0.25rem;
-  font-size:0.75rem;
-  color:var(--global-text-color);
+.summary-line::before {
+  content: "○";
+  position: absolute;
+  left: 0.25rem;
+  top: 0.25rem;
+  font-size: 0.75rem;
+  color: var(--global-text-color);
 }
 
 /*****************************
  * CV CONTACT INFORMATION ICON
  *****************************/
-.iconcontact{
-  color:var(--global-theme-color);
-  font-size:0.85rem;
-  margin-right:0.35rem;
-  width:14px;
-  display:inline-block;
-  text-align:center;
+.iconcontact {
+  color: var(--global-theme-color);
+  font-size: 0.85rem;
+  margin-right: 0.35rem;
+  width: 14px;
+  display: inline-block;
+  text-align: center;
 }

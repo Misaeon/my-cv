@@ -3,29 +3,47 @@ layout: page
 ---
 <div class="thesis-detail">
   <div class="thesis-info">
-    {% if page.student %}
-      <p><strong>Student:</strong> {{ page.student }}</p>
+    {% if page.logo %}
+      <div class="thesis-detail-logo">
+        <img src="{{ page.logo | relative_url }}" alt="{{ page.institution | default: 'Institution' }} logo">
+      </div>
     {% endif %}
-    {% if page.thesis_type %}
-      <p>
-        <strong>Degree:</strong>
-        {% if page.thesis_type == 'doctoral' %}Doctoral thesis{% elsif page.thesis_type == 'master' %}Master thesis{% endif %}
-      </p>
-    {% endif %}
-    {% if page.institution %}
-      <p><strong>Institution:</strong> {{ page.institution }}</p>
-    {% endif %}
-    {% if page.period %}
-      <p><strong>Period:</strong> {{ page.period }}</p>
-    {% elsif page.year %}
-      <p><strong>Year:</strong> {{ page.year }}</p>
-    {% endif %}
-    {% if page.status %}
-      <p><strong>Status:</strong> {{ page.status }}</p>
-    {% endif %}
-    {% if page.supervisors %}
-      <p><strong>Supervisors:</strong> {{ page.supervisors | join: ', ' }}</p>
-    {% endif %}
+    <div class="thesis-info-content">
+      {% if page.student %}
+        <p>
+          <strong>
+            {%- if page.thesis_type == 'doctoral' %}PhD candidate{% else %}Student{% endif %}:</strong
+          >
+          {{ page.student }}
+        </p>
+      {% endif %}
+      {% if page.thesis_type %}
+        <p>
+          <strong>Degree:</strong>
+          {% if page.thesis_type == 'doctoral' %}Doctoral thesis{% elsif page.thesis_type == 'master' %}Master thesis{% endif %}
+        </p>
+      {% endif %}
+      {% if page.institution %}
+        <p><strong>Institution:</strong> {{ page.institution }}</p>
+      {% endif %}
+      {% if page.period %}
+        <p><strong>Period:</strong> {{ page.period }}</p>
+      {% elsif page.year %}
+        <p><strong>Year:</strong> {{ page.year }}</p>
+      {% endif %}
+      {% if page.status %}
+        <p><strong>Status:</strong> {{ page.status }}</p>
+      {% endif %}
+      {% if page.supervisor %}
+        <p><strong>Supervisor:</strong> {{ page.supervisor }}</p>
+      {% endif %}
+      {% if page.co_supervisor %}
+        <p><strong>Co-supervisor:</strong> {{ page.co_supervisor }}</p>
+      {% endif %}
+      {% if page.supervisors %}
+        <p><strong>Supervisors:</strong> {{ page.supervisors | join: ', ' }}</p>
+      {% endif %}
+    </div>
   </div>
 
   {{ content }}
