@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sen
-middle_name: 
+middle_name:
 last_name: Miao
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -160,6 +160,9 @@ collections:
     output: true
   projects:
     output: true
+  supervisions:
+    output: true
+    permalink: /supervision/:name/
   teachings:
     output: true
 

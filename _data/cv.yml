@@ -7,12 +7,11 @@ cv:
     city: Göteborg
     region: Sweden
     postalCode:
-    countryCode: 
-
+    countryCode:
 
   social_networks:
-    - network: 
-      username: 
+    - network:
+      username:
 
   sections:
     Education:
@@ -20,7 +19,7 @@ cv:
         location: Terrassa, Spain
         url: https://deca.upc.edu/en/PhD_studies-research/phd/construction-engineering/construction-engineering
         logo: assets/img/cv/upc.png
-        area: 
+        area:
         studyType: Ph.D. (Cum Laude) in Construction Engineering
         start_date: "2021.10"
         end_date: "2025.07"
@@ -29,7 +28,7 @@ cv:
         location: Leeuwarden, Netherlands
         url: https://www.utwente.nl/en/education/master/programmes/environmental-energy-management/
         logo: assets/img/cv/ut.png
-        area: 
+        area:
         studyType: M.Sc. in Environmental and Energy Management
         start_date: "2017.09"
         end_date: "2018.09"
@@ -38,7 +37,7 @@ cv:
         location: Chengdu, China
         url: https://www.cdut.edu.cn/en/
         logo: assets/img/cv/cdut.png
-        area: 
+        area:
         studyType: B.E. in Engineering Mechanics
         start_date: "2013.09"
         end_date: "2017.07"
@@ -54,7 +53,7 @@ cv:
         summary: NEXT-ICM - NEXT generation sustainable, intelligent, occupant-centric Indoor Climate Management system
 
       - company: Universitat Politècnica de Catalunya, Group of Construction Research and Innovation
-        position: Research Associate 
+        position: Research Associate
         url: https://gric.upc.edu/en?set_language=en
         logo: assets/img/cv/upc.png
         location: Terrassa, Spain
@@ -73,7 +72,7 @@ cv:
         end_date: "2025.07"
         summary: IAQ4EDU - Optimal ventilation strategies for balancing Indoor Air Quality, comfort, and energy use in EDUcational buildings
 
-      - company:  
+      - company:
         position: Independent Researcher
         url: https://misaeon.github.io/my-cv/cv/
         location: Chengdu, China
@@ -99,7 +98,7 @@ cv:
         url: https://onlinelibrary.wiley.com/journal/ina
         logo: assets/img/cv/ia_certificate.png
         summary: "Top 10 cited article published in 2023: A comprehensive assessment of indoor air quality and thermal comfort in educational buildings in the Mediterranean climate"
-        
+
       - title: Research Excellence Award
         authors:
           - "City Council of Terrassa, Barcelona"
@@ -116,7 +115,14 @@ cv:
         awarder: China Scholarship Council
         url: https://www.csc.edu.cn/
         logo: assets/img/cv/csc.png
-        summary: 
+        summary:
+
+    Service:
+      - title: Academic Editor
+        organization: Indoor Air, Wiley
+
+      - title: Peer-reviewer
+        organization: Building and Environment, Journal of Building Engineering, Indoor Air, Indoor Environments, Sustainable Cities and Society, Case Studies in Thermal Engineering
 
     Languages:
       - name: Mandarin Chinese

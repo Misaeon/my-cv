@@ -1,0 +1,80 @@
+/*****************************
+ * Supervision styles
+ *****************************/
+
+.supervisions {
+  margin-top: 30px;
+}
+
+.thesis-section {
+  margin-top: 40px;
+
+  > h2 {
+    margin-bottom: 20px;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-bottom: 10px;
+  }
+}
+
+.thesis-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.thesis-item {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: var(--global-bg-color);
+  transition:
+    transform 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  }
+}
+
+.thesis-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.thesis-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  margin-bottom: 10px;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.thesis-description {
+  font-size: 0.9rem;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.thesis-info {
+  margin-bottom: 30px;
+  border-left: 3px solid var(--global-theme-color);
+  padding: 0.75rem 1rem;
+  background-color: var(--global-code-bg-color);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.thesis-publications {
+  padding-left: 1.25rem;
+
+  li {
+    margin-bottom: 1rem;
+    padding-left: 0.25rem;
+  }
+}

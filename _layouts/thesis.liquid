@@ -1,0 +1,64 @@
+---
+layout: page
+---
+<div class="thesis-detail">
+  <div class="thesis-info">
+    {% if page.student %}
+      <p><strong>Student:</strong> {{ page.student }}</p>
+    {% endif %}
+    {% if page.thesis_type %}
+      <p>
+        <strong>Degree:</strong>
+        {% if page.thesis_type == 'doctoral' %}Doctoral thesis{% elsif page.thesis_type == 'master' %}Master thesis{% endif %}
+      </p>
+    {% endif %}
+    {% if page.institution %}
+      <p><strong>Institution:</strong> {{ page.institution }}</p>
+    {% endif %}
+    {% if page.period %}
+      <p><strong>Period:</strong> {{ page.period }}</p>
+    {% elsif page.year %}
+      <p><strong>Year:</strong> {{ page.year }}</p>
+    {% endif %}
+    {% if page.status %}
+      <p><strong>Status:</strong> {{ page.status }}</p>
+    {% endif %}
+    {% if page.supervisors %}
+      <p><strong>Supervisors:</strong> {{ page.supervisors | join: ', ' }}</p>
+    {% endif %}
+  </div>
+
+  {{ content }}
+
+  <h2>Related publications</h2>
+  {% if page.publications and page.publications.size > 0 %}
+    <ol class="thesis-publications">
+      {% for publication in page.publications %}
+        <li>
+          {% if publication.url %}
+            <a href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>
+          {% else %}
+            <strong>{{ publication.title }}</strong>
+          {% endif %}
+          {% if publication.authors %}
+            <div>{{ publication.authors }}</div>
+          {% endif %}
+          {% if publication.journal or publication.year %}
+            <div>
+              {% if publication.journal -%}
+                <em>{{ publication.journal }}</em>
+              {%- endif %}
+              {% if publication.journal and publication.year %}, {% endif %}
+              {% if publication.year %}{{ publication.year }}{% endif %}
+            </div>
+          {% endif %}
+          {% if publication.note %}
+            <div>{{ publication.note }}</div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p>No related publications are listed yet.</p>
+  {% endif %}
+</div>

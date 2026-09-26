@@ -1,0 +1,15 @@
+{% comment %}
+  Academic service renderer. Each role is shown on one line and the
+  journal or journal list is shown directly underneath it.
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <h6 class="title font-weight-bold mb-1">{{ entry.title }}</h6>
+      {% if entry.organization %}
+        <div>{{ entry.organization }}</div>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

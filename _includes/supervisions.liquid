@@ -1,0 +1,66 @@
+{% assign doctoral_theses = site.supervisions | where: 'thesis_type', 'doctoral' | sort: 'year' | reverse %}
+{% assign master_theses = site.supervisions | where: 'thesis_type', 'master' | sort: 'year' | reverse %}
+
+<div class="supervisions">
+  <section class="thesis-section" aria-labelledby="doctoral-thesis-heading">
+    <h2 id="doctoral-thesis-heading">Doctoral thesis</h2>
+    {% if doctoral_theses.size > 0 %}
+      <div class="thesis-list">
+        {% for thesis in doctoral_theses %}
+          <article class="thesis-item">
+            <h3 class="thesis-title">
+              <a href="{{ thesis.url | relative_url }}">{{ thesis.title }}</a>
+            </h3>
+            <div class="thesis-meta">
+              {% if thesis.student -%}
+                <span>{{ thesis.student }}</span>
+              {%- endif %}
+              {% if thesis.year -%}
+                <span>{{ thesis.year }}</span>
+              {%- endif %}
+              {% if thesis.status -%}
+                <span>{{ thesis.status }}</span>
+              {%- endif %}
+            </div>
+            {% if thesis.description %}
+              <div class="thesis-description">{{ thesis.description | markdownify }}</div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p>No doctoral thesis is listed yet.</p>
+    {% endif %}
+  </section>
+
+  <section class="thesis-section" aria-labelledby="master-thesis-heading">
+    <h2 id="master-thesis-heading">Master thesis</h2>
+    {% if master_theses.size > 0 %}
+      <div class="thesis-list">
+        {% for thesis in master_theses %}
+          <article class="thesis-item">
+            <h3 class="thesis-title">
+              <a href="{{ thesis.url | relative_url }}">{{ thesis.title }}</a>
+            </h3>
+            <div class="thesis-meta">
+              {% if thesis.student -%}
+                <span>{{ thesis.student }}</span>
+              {%- endif %}
+              {% if thesis.year -%}
+                <span>{{ thesis.year }}</span>
+              {%- endif %}
+              {% if thesis.status -%}
+                <span>{{ thesis.status }}</span>
+              {%- endif %}
+            </div>
+            {% if thesis.description %}
+              <div class="thesis-description">{{ thesis.description | markdownify }}</div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p>No master thesis is listed yet.</p>
+    {% endif %}
+  </section>
+</div>
