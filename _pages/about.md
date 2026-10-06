@@ -26,7 +26,7 @@ latest_posts:
 
 I am a [**Marie Curie** research fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers) at [Building Services Engineering, Chalmers University of Technology](https://www.chalmers.se/en/departments/ace/organisation/building-services-engineering/). I am also an Academic Editor of [**Indoor Air**, Wiley](http://onlinelibrary.wiley.com/page/journal/ina/homepage/editorial-board).
 
-I focus on **Building Informatics** and **Indoor Environmental Quality**. As a big fan of **Statistical Inference** and **Machine Learning**, I am committed to developing data-driven and physics-based approaches to better understand, model, and improve indoor environmental performance and occupant well-being. My particular interests include: 
+I focus on **Building Informatics** and **Indoor Environmental Quality**. As a big fan of **Statistical Inference** and **Machine Learning**, I am committed to developing data-driven and physics-based approaches to better understand, model, and improve **indoor environmental performance** and **occupant well-being**. My particular interests include: 
 
 i) Physics-informed machine learning;
 
